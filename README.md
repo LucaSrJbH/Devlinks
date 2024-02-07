@@ -1,12 +1,11 @@
 # projeto-2
+
 # projeto-2
 
-
-
-<h1 align="center"> Links de esnsino sobre Satoru gojou </h1>
+<h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Ensinadode forma gratuita, promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto desenvolvido como cartão de contado digital.
 </p>
 
 <p align="center">
@@ -23,7 +22,7 @@ Ensinadode forma gratuita, promovido pela Rocketseat para ensino de tecnologias 
 <br>
 
 <p align="center">
-  <img alt="Dominio expandido" src=".github\vazio ilimitado.png" width="100%">
+  <img alt="Projeto DevLinks" src="Dev.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -37,13 +36,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Essa é uma pequena amostra do coteudo produzido para entender o personagem Satoru Gojou e Suas Habilidades.
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
+Aqui, você pode ter acesso às minhas mídias, entrar em contato com o meu portfólio, solicitar orçamentos e conhecer mais sobre o meu trabalho.
 
 ---# Devlinks
